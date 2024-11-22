@@ -9,7 +9,7 @@
   "dependencies": {
     "@adiwajshing/baileys": "^4.2.0",
     "@hapi/boom": "^10.0.0",
-    "fs": "^0.0.1-security", || Might be built into Node.js; check if needed
-    "dotenv": "^16.0.3" ||For securely managing session data
+    "fs": "^0.0.1-security", 
+    "dotenv": "^16.0.3" 
   }
 }
